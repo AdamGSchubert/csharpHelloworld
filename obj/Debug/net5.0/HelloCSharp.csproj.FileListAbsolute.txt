@@ -1,0 +1,16 @@
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\bin\Debug\net5.0\HelloCSharp.exe
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\bin\Debug\net5.0\HelloCSharp.deps.json
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\bin\Debug\net5.0\HelloCSharp.runtimeconfig.json
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\bin\Debug\net5.0\HelloCSharp.runtimeconfig.dev.json
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\bin\Debug\net5.0\HelloCSharp.dll
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\bin\Debug\net5.0\HelloCSharp.pdb
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\obj\Debug\net5.0\HelloCSharp.csproj.AssemblyReference.cache
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\obj\Debug\net5.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\obj\Debug\net5.0\HelloCSharp.AssemblyInfoInputs.cache
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\obj\Debug\net5.0\HelloCSharp.AssemblyInfo.cs
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\obj\Debug\net5.0\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\obj\Debug\net5.0\HelloCSharp.dll
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\obj\Debug\net5.0\HelloCSharp.pdb
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\obj\Debug\net5.0\HelloCSharp.genruntimeconfig.cache
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\obj\Debug\net5.0\ref\HelloCSharp.dll
+C:\Users\adamg\workspace\csharp\helloCsharp\HelloCSharp\bin\Debug\net5.0\ref\HelloCSharp.dll
